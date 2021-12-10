@@ -23,14 +23,14 @@ public class Rules extends JFrame implements ActionListener{
     l2.setFont(new Font("Arimo",Font.PLAIN,16));
     l2.setBounds(100,120,600,350);
     l2.setText("<html>"
-            + "1. You are trained to be a programmer and not a story teller, answer point to point<br><br>"
-            + "2. Do not unnecessarily smile at the person sitting next to you, they may also not know the answer<br><br>"
-            + "3. You may have lot of options in life but here all the questions are compulsory<br><br>"
-            + "4. Crying is allowed but please do so quietly.<br><br>"
-            + "5. Only a fool asks and a wise answers (Be wise, not otherwise)<br><br>"
-            + "6. Do not get nervous if your friend is answering more questions, may be he/she is doing Jai Mata Di<br><br>"
-            + "7. Brace yourself, this paper is not for the faint hearted<br><br>"
-            + "8. May you know more than what John Snow knows, Good Luck<br><br>"
+            + "1. The decision of the quiz-master will be final and will not be subjected to any change.<br><br>"
+            + "2. The participants shall not be allowed to use mobile or other electronic instruments.<br><br>"
+            + "3. The questions shall be in the form of multiple choice, True / False statement, Specificanswer question etc.<br><br>"
+            + "4. There is no negative marking for wrong answer.<br><br>"
+            + "5. No buzzer is used in this round.<br><br>"
+            + "6. 10 points is awarded for the correct answer..<br><br>"
+            + "7. Once a question is passed the you cannot give an answer later.<br><br>"
+            + "8. The score is visible to players at the end.<br><br>"
             + "<html>");
     add(l2);
     
